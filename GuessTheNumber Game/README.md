@@ -5,7 +5,7 @@ As a software engineer aiming to refine my programming skills and understanding 
 
 The purpose of writing this software was to put into practice the fundamental aspects of Java that I've been studying. By building something tangible and interactive, I aimed to deepen my grasp of the language's syntax and features. The game features different difficulty levels to provide a varied experience while including a hidden "Debugger Mode" for development purposes.
 
-[Software Demo Video](http://youtube.link.goes.here/)
+[Software Demo Video](https://youtu.be/s9rIAoCFxtI)
 
 # Development Environment
 
